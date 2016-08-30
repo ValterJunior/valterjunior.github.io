@@ -15,7 +15,7 @@
 
 
         $.ajax({
-            url: "https://formspree.io/jr,valter.oliveira@gmail.com",
+            url: "https://formspree.io/jr.valter.oliveira@gmail.com",
             method: "POST",
             data: $(this).serialize(),
             dataType: "json",
